@@ -1,6 +1,6 @@
 # js-code-currency-converter
 
-Npm package to convert currency
+💱 Currency Converter - Simplify Currency Conversions in JavaScript
 
 ## Installation
 
@@ -17,3 +17,9 @@ convertCurrency('USD','INR',3).then(res => {
     console.log(res);
 });
 ```
+
+## Description
+Experience seamless currency conversion integration into your JavaScript projects today with the js-code-currency-converter npm package. Say goodbye to manual calculations and embrace efficient currency management in your applications.
+
+## License
+This project is licensed under the ISC License.
