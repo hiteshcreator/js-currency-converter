@@ -1,0 +1,27 @@
+{
+  "name": "js-currency-converter",
+  "version": "1.0.0",
+  "description": "npm package to currency converter",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiteshcreator/js-currency-converter.git"
+  },
+  "keywords": [
+    "npm",
+    "js"
+  ],
+  "author": "Hitesh Sharma",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/hiteshcreator/js-currency-converter/issues"
+  },
+  "homepage": "https://github.com/hiteshcreator/js-currency-converter#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
