@@ -1,5 +1,5 @@
 {
-  "name": "js-currency-converter",
+  "name": "js-code-currency-converter",
   "version": "1.0.0",
   "description": "npm package to currency converter",
   "main": "index.js",
