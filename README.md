@@ -13,9 +13,17 @@ npm install js-code-currency-converter
 ```
 import {convertCurrency} from "js-code-currency-converter";
 
-convertCurrency('USD','INR',3).then(res => {
+const fromCurrency = 'USD';
+const toCurrency = 'INR';
+const units = 2;
+
+// Call the convertCurrency function with dynamic values
+convertCurrency(fromCurrency, toCurrency, units).then(res => {
     console.log(res);
+}).catch(err => {
+    console.error("An error occurred:", err);
 });
+
 ```
 
 ## Description
