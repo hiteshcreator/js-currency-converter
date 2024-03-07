@@ -18,6 +18,13 @@ npm install js-code-currency-converter
 
 ```
 
+## NPM Latest Version
+
+> If your Node.js version is old, consider updating it to a newer one.
+
+```
+20 || 21
+```
   
 
 ## Usage
