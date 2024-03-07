@@ -14,7 +14,6 @@
 You can install the package via npm:
 
 ```
-
 npm install js-code-currency-converter
 
 ```
@@ -27,8 +26,6 @@ npm install js-code-currency-converter
 
 import {convertCurrency,setApiKey} from "js-code-currency-converter";
 
-  
-
 const fromCurrency = 'USD';
 
 const toCurrency = 'INR';
@@ -40,24 +37,16 @@ const units = 2;
 
 setApiKey("YOUR_SECRET_KEY"); //Set up the initial API key || Optional
 
-  
 
 // Call the convertCurrency function with dynamic values
 
 convertCurrency(fromCurrency, toCurrency, units).then(res => {
-
-console.log(res);
-
+        console.log(res);
 }).catch(err => {
-
-console.error("An error occurred:", err);
-
+        console.error("An error occurred:", err);
 });
 
-  
-
 convertCurrency("USD","INR",1);
-
   
 
 ```
