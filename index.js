@@ -10,7 +10,7 @@ const initializeFreecurrencyapi = (apiKey) => {
 
 export const setApiKey = (apiKey) => {
     // Update the API key used by freecurrencyapi instance
-    freecurrencyapi = initializeFreecurrencyapi(apiKey || process.env.FREECURRENCYAPI_KEY);
+    freecurrencyapi = initializeFreecurrencyapi(apiKey);
 };
 
 export const convertCurrency = async(fromCurrency, toCurrency, units) =>{
@@ -18,6 +18,10 @@ export const convertCurrency = async(fromCurrency, toCurrency, units) =>{
                 // Use a safer validation function (e.g., from a trusted library)
                 if (!validateCurrencyCode(fromCurrency) || !validateCurrencyCode(toCurrency)) {
                         throw new Error('Invalid currency code(s)');
+                }
+
+                if (freecurrencyapi == undefined) {
+                        freecurrencyapi = new Freecurrencyapi("fca_live_MxfjMdsyFLtu2mGxTphElqcwFJ30VpBnC4AyVXgt");
                 }
 
                 const res = await freecurrencyapi.latest({

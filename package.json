@@ -22,7 +22,6 @@
   },
   "homepage": "https://github.com/hiteshcreator/js-currency-converter#readme",
   "dependencies": {
-    "@everapi/freecurrencyapi-js": "^1.0.1",
-    "dotenv": "^16.4.5"
+    "@everapi/freecurrencyapi-js": "^1.0.1"
   }
 }
