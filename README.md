@@ -15,12 +15,11 @@ You can install the package via npm:
 
 ```
 npm install js-code-currency-converter
-
 ```
 
 ## NPM Latest Version
 
-> If your Node.js version is old, consider updating it to a newer one.
+>  **If your Node.js version is old, consider updating it to a newer one.** 
 
 ```
 20 || 21
@@ -30,32 +29,23 @@ npm install js-code-currency-converter
 ## Usage
 
 ```
-
 import {convertCurrency,setApiKey} from "js-code-currency-converter";
 
 const fromCurrency = 'USD';
-
 const toCurrency = 'INR';
-
 const units = 2;
 
-  
-// If you have an API key then call these function
+//If you have an API key then call these function
 
 setApiKey("YOUR_SECRET_KEY"); //Set up the initial API key || Optional
-
 
 // Call the convertCurrency function with dynamic values
 
 convertCurrency(fromCurrency, toCurrency, units).then(res => {
-        console.log(res);
+	console.log(res);
 }).catch(err => {
-        console.error("An error occurred:", err);
+	console.error("An error occurred:", err);
 });
-
-convertCurrency("USD","INR",1);
-  
-
 ```
 
 ## Set Up key
@@ -80,4 +70,4 @@ Experience seamless currency conversion integration into your JavaScript project
 
 ## License
 
-This project is licensed under the ISC License.
+This project is licensed under the [Apache LICENSE-2.0](https://github.com/hiteshcreator/js-currency-converter/blob/master/LICENSE) © [Hitesh Sharma](https://github.com/hiteshcreator)
