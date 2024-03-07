@@ -1,6 +1,5 @@
 import Freecurrencyapi from '@everapi/freecurrencyapi-js';
 import { validCurrencyCodes } from './validCurrencyCode.js';
-import 'dotenv/config';
 
 let freecurrencyapi; // Define the freecurrencyapi variable globally
 
