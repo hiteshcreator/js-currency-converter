@@ -64,9 +64,15 @@ convertCurrency("USD","INR",1);
 
 ## Set Up key
  
-Go to this link to get your own Personal API Key: [Move](https://app.freecurrencyapi.com/)
+# Go to this link to get your own Personal API Key: [Move](https://app.freecurrencyapi.com/)
 
-Singup with google account then you get your personal api key
+
+![api](https://github.com/hiteshcreator/js-currency-converter/blob/master/assets/singup.png)
+
+
+# Signup with a Google account then you get your personal API key
+
+![api](https://github.com/hiteshcreator/js-currency-converter/blob/master/assets/api.png)
 
 
 
