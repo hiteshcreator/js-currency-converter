@@ -58,12 +58,12 @@ convertCurrency(fromCurrency, toCurrency, units).then(res => {
 # Go to this link to get your own Personal API Key: [Move](https://app.freecurrencyapi.com/)
 
 
-![api](https://github.com/hiteshcreator/js-currency-converter/blob/master/assets/singup.png)
+![Image Description](https://drive.google.com/uc?export=view&id=1GKzSObHlPqk7iFfbtO6KLpXoKhPDmNDV)
 
 
 # Signup with a Google account then you get your personal API key
 
-![api](https://github.com/hiteshcreator/js-currency-converter/blob/master/assets/api.png)
+![Image Description](https://drive.google.com/uc?export=view&id=1GNuWPwkedbrw4TKwygBeHtaBD-oZR5qu)
 
 
 
