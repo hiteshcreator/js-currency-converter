@@ -69,7 +69,7 @@ convertCurrency(fromCurrency, toCurrency, units).then(res => {
 
 ## Description
 
-Upgrade your JavaScript projects easily with the <code style="color : aquamarine">[js-code-currency-converter npm package](https://github.com/hiteshcreator/js-currency-converter/)</code>. No more difficult math – this tool makes handling different currencies in your apps simple. It works with <code style="color : red">[Node.js](https://nodejs.org/en/)</code> and frameworks like <code style="color : cyan">[React.js](https://react.dev/)</code> and <code style="color : red">[Angular](https://angular.io/)</code></a>. Just install it and enjoy smooth currency conversion. Say goodbye to manual work and hello to smooth development. Get started today!
+Upgrade your JavaScript projects easily with the <code style="color : aquamarine">[js-code-currency-converter npm package](https://github.com/hiteshcreator/js-currency-converter/)</code>. No more difficult math – this tool makes handling different currencies in your apps simple. It works with <code style="color : red">[Nodejs](https://nodejs.org/en/)</code> and frameworks like <code style="color : cyan">[Reactjs](https://react.dev/)</code> and <code style="color : red">[Angular](https://angular.io/)</code></a>. Just install it and enjoy smooth currency conversion. Say goodbye to manual work and hello to smooth development. Get started today!
 
 
 ## License
