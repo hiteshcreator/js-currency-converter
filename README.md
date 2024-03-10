@@ -3,19 +3,17 @@
 
 <a href='https://github.com/hiteshcreator/js-currency-converter/' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/github-100000?style=flat&logo=GitHub&logoColor=white&labelColor=black&color=black'/></a>
 <a href='https://www.npmjs.com/package/js-code-currency-converter/' target="_blank"><img alt='npm' src='https://img.shields.io/badge/package-js_code currency converter-100000?style=flat&logo=npm&logoColor=white&labelColor=FF0000&color=black'/></a>
-<a href='https://nodejs.org/en' target="_blank"><img alt='nodedotjs' src='https://img.shields.io/badge/npm-v20.11.1-100000?style=flat&logo=nodedotjs&logoColor=white&labelColor=339933&color=1082c3'/></a>
+<a href='https://nodejs.org/en' target="_blank"><img alt='nodedotjs' src='https://img.shields.io/badge/npm-v18.19.1 | v20.11.1-100000?style=flat&logo=nodedotjs&logoColor=white&labelColor=339933&color=1082c3'/></a>
 <a href='https://github.com/hiteshcreator/js-currency-converter/blob/master/LICENSE' target="_blank"><img alt='' src='https://img.shields.io/badge/license-_Apache2.0-100000?style=flat&logo=&logoColor=white&labelColor=6C6B6B&color=2CF46E'/></a>
 
 <p>💱 Currency Converter - Simplify Currency Conversions in JavaScript 💱</p>
 
 </div>
 
-
 ## Getting started 🚀
 
 **Installation**
 
-  
 You can install the package via npm:
 
 ```bash
@@ -28,8 +26,6 @@ npm install js-code-currency-converter
 
 <a href='https://www.npmjs.com/package/npm' target="_blank"><img alt='npm' src='https://img.shields.io/badge/10.5.0-100000?style=flat&logo=npm&logoColor=white&labelColor=FF0000&color=FF0202'/></a>
 <a href='https://nodejs.org/en' target="_blank"><img alt='nodedotjs' src='https://img.shields.io/badge/Node.js-v20.11.1-100000?style=flat&logo=nodedotjs&logoColor=white&labelColor=339933&color=1082c3'/></a>
-
- 
 
 ## Usage 💯
 
@@ -54,23 +50,18 @@ convertCurrency(fromCurrency, toCurrency, units).then(res => {
 ```
 
 ## Set Up key
- 
+
 # Go to this link to get your own Personal API Key: [Move](https://app.freecurrencyapi.com/)
 
-
 ![Image Description](https://drive.google.com/uc?export=view&id=1GKzSObHlPqk7iFfbtO6KLpXoKhPDmNDV)
-
 
 # Signup with a Google account then you get your personal API key
 
 ![Image Description](https://drive.google.com/uc?export=view&id=1GNuWPwkedbrw4TKwygBeHtaBD-oZR5qu)
 
-
-
 ## Description
 
 Upgrade your JavaScript projects easily with the <code style="color : aquamarine">[js-code-currency-converter npm package](https://github.com/hiteshcreator/js-currency-converter/)</code>. No more difficult math – this tool makes handling different currencies in your apps simple. It works with <code style="color : red">[Nodejs](https://nodejs.org/en/)</code> and frameworks like <code style="color : cyan">[Reactjs](https://react.dev/)</code> and <code style="color : red">[Angular](https://angular.io/)</code></a>. Just install it and enjoy smooth currency conversion. Say goodbye to manual work and hello to smooth development. Get started today!
-
 
 ## License
 
