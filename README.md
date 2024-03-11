@@ -53,7 +53,7 @@ convertCurrency(fromCurrency, toCurrency, units).then(res => {
 });
 ```
 
-<br/><br/>
+<br/>
 
 ## Set Up key
 
