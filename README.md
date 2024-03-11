@@ -27,6 +27,10 @@ npm install js-code-currency-converter
 <a href='https://www.npmjs.com/package/npm' target="_blank"><img alt='npm' src='https://img.shields.io/badge/10.5.0-100000?style=flat&logo=npm&logoColor=white&labelColor=FF0000&color=FF0202'/></a>
 <a href='https://nodejs.org/en' target="_blank"><img alt='nodedotjs' src='https://img.shields.io/badge/Node.js-v20.11.1-100000?style=flat&logo=nodedotjs&logoColor=white&labelColor=339933&color=1082c3'/></a>
 
+## ES6 module
+
+<code style="color : aquamarine">**Utilize "type": "module" within the package.json file**</code>
+
 ## Usage 💯
 
 ```bash
