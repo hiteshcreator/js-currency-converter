@@ -13,8 +13,8 @@
 ## Getting started 🚀
 
 **Installation**
-
-You can install the package via npm: <br/><br/>
+<br/><br/>
+You can install the package via npm:
 
 ```bash
 npm install js-code-currency-converter
@@ -60,10 +60,13 @@ convertCurrency(fromCurrency, toCurrency, units).then(res => {
 # Go to this link to get your own Personal API Key: [Move](https://app.freecurrencyapi.com/)
 
 ![Image Description](https://drive.google.com/uc?export=view&id=1GKzSObHlPqk7iFfbtO6KLpXoKhPDmNDV)
+<br/><br/>
 
 # Signup with a Google account then you get your personal API key
 
 ![Image Description](https://drive.google.com/uc?export=view&id=1GNuWPwkedbrw4TKwygBeHtaBD-oZR5qu)
+
+<br/>
 
 ## Description
 
